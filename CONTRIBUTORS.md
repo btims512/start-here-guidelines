@@ -1744,4 +1744,4 @@
 
 - [@JJbings](https://github.com/JJbings)
 
-- [@btims512] (https://github.com/btims512)
+- [@btims512](https://github.com/btims512)
